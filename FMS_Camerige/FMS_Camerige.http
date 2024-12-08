@@ -1,0 +1,6 @@
+@FMS_Camerige_HostAddress = http://localhost:5218
+
+GET {{FMS_Camerige_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
